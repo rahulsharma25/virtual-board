@@ -1,5 +1,5 @@
 # Virtual Board
-Use yours index and middle fingers to draw over your webcam video in real time.
+Make your Webcam video into a virtual drawing board.
 
 > Install required libraries using the command- pip install -r requirements.txt
 >
