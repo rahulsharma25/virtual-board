@@ -2,6 +2,10 @@
 
 Use yours fingers to draw over your webcam video. 
 
+> Install required libraries using the command- pip install -r requirements.txt
+>
+> Run virtual_painter.py to start the program
+
 Instructions:
 
 - Use the tip of index finger to draw over the image.
