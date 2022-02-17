@@ -1,5 +1,4 @@
 # Virtual Board
-
 Use yours fingers to draw over your webcam video. 
 
 > Install required libraries using the command- pip install -r requirements.txt
